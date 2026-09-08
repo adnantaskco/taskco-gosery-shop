@@ -5,13 +5,13 @@ export default function PromoBannersGrid() {
   const banners = [
     {
       id: 1,
-      title: "Super Market Live Webinar Banner",
+      title: "Super Market  Webinar Banner",
       image: "https://grocery-admin1.getcommerce.xyz/banner/GKesL1758634012.png",
       link: "#"
     },
     {
       id: 2,
-      title: "Fresh Meat Banner",
+      title: "Fresh Meat ",
       image: "https://grocery-admin1.getcommerce.xyz/banner/42PNG1758634005.png",
       link: "#"
     },
